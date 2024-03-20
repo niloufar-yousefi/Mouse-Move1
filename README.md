@@ -2,7 +2,7 @@
 
 **Turn the pages of the magazine.**
 ![view final](https://niloufar-yousefi.github.io/Mouse-Move1/)
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project](https://niloufar-yousefi.github.io/Mouse-Move1/)
 
 
 - Developed by Niloofar Yoosefi
