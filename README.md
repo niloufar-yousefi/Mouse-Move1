@@ -1,9 +1,8 @@
-# mousemove practice whit vanilla js
+# Mousemove practice whit vanilla js
 
 **Turn the pages of the magazine.**
-![magazine](https://github.com/niloufar-yousefi/Mouse-Move1/assets/156951582/3120d7ad-ff1e-4217-8c8a-8a5e829a8c1d)
 ![view final](https://niloufar-yousefi.github.io/Mouse-Move1/)
-
+- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
 
 - Developed by Niloofar Yoosefi
